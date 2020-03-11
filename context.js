@@ -106,6 +106,7 @@ let vacation = {
   whatIsThis: whatIsThis
 }
 
+
 // uncomment the line below and tell us what the context of "this" is when we invoke vacation.whatIsThis
 let context3 = vacation
 
